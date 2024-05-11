@@ -50,7 +50,7 @@
 ### Register Number: Prasannalakshmi G
 
 ## Output:
-![image](https://github.com/Prasannalakshmiganesan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118610231/d50177e0-4020-44d5-af9e-e0567d541b9d)
+![kk](https://github.com/Prasannalakshmiganesan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118610231/72e57cd5-8a7f-41ef-aedb-4c9160414d73)
 
 
 
